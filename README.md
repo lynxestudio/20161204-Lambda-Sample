@@ -108,6 +108,6 @@ ApplyF(x, (fahrenheit) => (fahrenheit + 460)));
 </pre>
 Al ejecutar todos los programas observamos que el resultado es el mismo en cada uno, lo que cambio fue únicamente la sintaxis.
 <div><b>Fig 1. El resultado del código usando delegados.</b></div><br>
-<div><IMG src="picture_library/lambda/lambda.png"></div><br>
+<div><IMG src="images/lambda.png"></div><br>
 <h3>Conclusión</h3>
 <p align="justify">Para los nuevos retos en el desarrollo de software, es importante que los lenguajes de programación incorporen características de un paradigma de programación diferente a ellos para extender sus capacidades y así poder expresar algoritmos de una manera compacta y más concisa esto da como resultado un código más legible.</p>
